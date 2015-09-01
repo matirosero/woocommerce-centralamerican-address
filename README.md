@@ -13,6 +13,7 @@ This plugin customizes WooCommerce's shipping and billing address forms so that 
 * It includes spanish language files (es_ES and es_MX).
 
 **Contribute** 
+
 To contribute to this plugin feel free to fork it on Github [WooCommerce Centralamerican Address](https://github.com/matirosero/woocommerce-centralamerican-address)
 
 
@@ -26,7 +27,7 @@ To contribute to this plugin feel free to fork it on Github [WooCommerce Central
 *   That's it. There's no options.
 
 **Manual Installation**
-1. 	Download the plugin zip file
-2. 	Login to your WordPress Admin. Click on "Plugins > Add New" from the left hand menu.
-3.	Click on the "Upload" option, then click "Choose File" to select the zip file from your computer. Once selected, press "OK" and press the "Install Now" button.
-4.	Activate the plugin.
+* 	Download the plugin zip file
+* 	Login to your WordPress Admin. Click on "Plugins > Add New" from the left hand menu.
+* 	Click on the "Upload" option, then click "Choose File" to select the zip file from your computer. Once selected, press "OK" and press the "Install Now" button.
+* 	Activate the plugin.
