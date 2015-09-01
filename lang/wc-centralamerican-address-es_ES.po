@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-08-31 18:50-0600\n"
+"PO-Revision-Date: 2015-08-31 18:50-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-centralamerican-address.php:59
+#: woocommerce-centralamerican-address.php:62
+#: woocommerce-costarican-address.php:59
+msgid "Province"
+msgstr "Provincia"
+
+#: woocommerce-centralamerican-address.php:60
+#: woocommerce-costarican-address.php:60
+msgid "Canton"
+msgstr "Cantón"
+
+#: woocommerce-centralamerican-address.php:63
+msgid "District"
+msgstr "Distrito"
+
+#: woocommerce-centralamerican-address.php:65
+#: woocommerce-centralamerican-address.php:68
+#: woocommerce-centralamerican-address.php:71
+#: woocommerce-centralamerican-address.php:74
+msgid "Department"
+msgstr "Departamento"
+
+#: woocommerce-centralamerican-address.php:66
+#: woocommerce-centralamerican-address.php:69
+#: woocommerce-centralamerican-address.php:72
+#: woocommerce-centralamerican-address.php:75
+msgid "Municipality"
+msgstr "Municipalidad"
